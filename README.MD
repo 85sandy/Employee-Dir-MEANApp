@@ -1,0 +1,2 @@
+Employee Directory App using Node, Express, MongoDB and AngularJS. The application has all four CRUD (Create, Read, Update, Delete) operation. 
+User will be able to add new employees, edit an employee details, delete an employee record.

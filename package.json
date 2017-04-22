@@ -1,0 +1,21 @@
+{
+  "name": "mean-stack-employee-dirapp",
+  "version": "1.0.0",
+  "description": "Certification Project - Employee Directory App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "employeedirapp"
+  ],
+  "author": "Sandhya K J",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "chalk": "^1.1.3",
+    "express": "^4.15.2",
+    "method-override": "^2.3.8",
+    "mongoose": "^4.9.4"
+  }
+}
